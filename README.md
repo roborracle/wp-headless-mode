@@ -67,4 +67,4 @@ MIT - see [LICENSE](LICENSE)
 
 ## Author
 
-[Rob Orr](https://roborr.com) | [Knowledge Graph](https://roborr.com/knowledge-graph)
+[Robert David Orr](https://robertdavidorr.com) | [Knowledge Graph](https://robertdavidorr.com/knowledge-graph)

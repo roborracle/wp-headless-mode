@@ -4,8 +4,8 @@
  * Plugin URI:  https://github.com/roborracle/wp-headless-mode
  * Description: Locks down the WordPress front-end for headless CMS operation. Redirects all public requests to your front-end application while preserving wp-admin and REST API access.
  * Version:     1.0.0
- * Author:      Rob Orr
- * Author URI:  https://roborr.com
+ * Author:      Robert David Orr
+ * Author URI:  https://robertdavidorr.com
  * License:     MIT
  * License URI: https://opensource.org/licenses/MIT
  * Requires PHP: 7.4
